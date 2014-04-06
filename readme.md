@@ -1,0 +1,1 @@
+This is a light-weight IRC client (bot) written in Delphi.
